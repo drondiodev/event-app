@@ -1,3 +1,5 @@
+# WORK IN PROGRESS
+
 # Event App
 
 ## Lancer le projet en local
